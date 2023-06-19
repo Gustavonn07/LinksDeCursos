@@ -1,3 +1,18 @@
+# Objetivo:
+1. Ajudar pessoas que assim como eu estão entrando nesse mundo novo de programação.
+2. Salvar links que podem ser úteis para revisar no futuro.
+3. Organizar meus cursos em ordem de tecnologias.
+
+# Como usar:
+1. Veja qual a tecnologia que interessar por meio das logos, por meio das descrições ou por meio dos nomes das tecnologias.
+2. Clique no link com o nome do criador do curso
+
+# Atenção:
+### Nesse repositório existem cursos pagos e gratuitos, no fim de cada nome digo se é pago, caso não tenha nada é gratuito!
+
+
+<br>
+
 <table align='center'>
   <tr>
     <td colspan='5'><h1 align='center'> Biblioteca de Links </h1></td>
@@ -81,3 +96,5 @@
     <td> <img alt="Gustavo-PROCESSING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg">
   </tr>
 </table>
+
+<h2 align='center'>Criado por <a href='https://github.com/Gustavonn07'>Gustavonn07</a></h2>
