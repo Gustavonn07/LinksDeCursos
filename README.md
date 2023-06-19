@@ -75,7 +75,7 @@
   <tr>
     <td>Javascript: </td>
     <td> Nesse curso Gustavo Guanabara ensina sobre o básico de Javascript.
-    <td colspan='2'><a target='_blank' href='https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1'>DPW Animation</a></td>
+    <td colspan='2'><a target='_blank' href='https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1'>Cursoemvideo Javascript</a></td>
     <td><img alt="Gustavo-JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </tr>
   <tr>
