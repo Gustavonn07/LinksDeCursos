@@ -92,8 +92,8 @@
   </tr>
   <tr>
     <td>Processing (INLGÊS): </td>
-    <td> Nesse curso DaGabeAgenda ensina o básico de Processing
-    <td colspan='2'><a target='_blank' href='https://www.youtube.com/playlist?list=PLzJbM9-DyOZyMZzVda3HaWviHqfPiYN7e'>DaGabeAgenda Processing</a></td>
+    <td> Nesse curso The Coding Train ensina o básico de Processing
+    <td colspan='2'><a target='_blank' href='https://www.youtube.com/playlist?list=PLzJbM9-DyOZyMZzVda3HaWviHqfPiYN7e'>The Coding Train Processing</a></td>
     <td align='center'> <img alt="Gustavo-PROCESSING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg">
   </tr>
 </table>
