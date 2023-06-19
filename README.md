@@ -26,4 +26,22 @@
     <td colspan='2'><a target='_blank' href='https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT'>Cursoemvideo 04</a></td>
     <td><img alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </tr>
+  <tr>
+    <td>HTML e CSS: </td>
+    <td> Nesse curso dpw explica sobre Flexbox (Display Flex).
+    <td colspan='2'><a target='_blank' href='https://www.youtube.com/playlist?list=PLYgzkrmJnLwo8IDD2v7RP_oyE3yzc1fY4'>DPW Flexbox</a></td>
+    <td><img alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </tr>
+  <tr>
+    <td>HTML e CSS: </td>
+    <td> Nesse curso dpw explica sobre Grid (Display Grid).
+    <td colspan='2'><a target='_blank' href='https://www.youtube.com/playlist?list=PLYgzkrmJnLwpeeGgdADYq3cE2yUwLLTOv'>DPW Grid</a></td>
+    <td><img alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </tr>
+   <tr>
+    <td>HTML e CSS: </td>
+    <td> Nesse mini-curso dpw explica animações em CSS3.
+    <td colspan='2'><a target='_blank' href='https://www.youtube.com/watch?v=eTELLTacg-8&t=2528s'>DPW Animation</a></td>
+    <td><img alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </tr>
 </table>
