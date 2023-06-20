@@ -61,6 +61,12 @@
     <td align='center'><img alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </tr>
   <tr>
+    <td>CSS e Sass Avançado (INLGÊS) (PAGO): </td>
+    <td> Nesse curso Jonas Schmedthmann ensina CSS com display Grid e Flexbox, além da tecnologia Sass
+    <td colspan='2'><a target='_blank' href='https://www.udemy.com/course/advanced-css-and-sass/'>Jonas Schmedthmann CSS e Sass</a></td>
+    <td align='center'> <img alt="Gustavo-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> <img alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </tr>
+  <tr>
     <td>Bootstrap5: </td>
     <td> Nesse curso CFB explica como usar a biblioteca Bootstrap5.
     <td colspan='2'><a target='_blank' href='https://www.youtube.com/playlist?list=PLx4x_zx8csUgop9qBqm6ReuNa3XraZBrc'>CFB Bootstrap5</a></td>
