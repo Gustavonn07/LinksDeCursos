@@ -8,7 +8,7 @@
 2. Clique no link com o nome do criador do curso
 
 # Atenção:
-### Nesse repositório existem cursos pagos e gratuitos, no fim de cada nome digo se é pago, caso não tenha nada é gratuito!
+### Nesse repositório existem cursos pagos e gratuitos, no fim de cada nome digo se é pago, caso não tenha nada, é gratuito!
 
 
 <br>
