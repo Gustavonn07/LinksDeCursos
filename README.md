@@ -55,7 +55,7 @@
     <td align='center'><img alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </tr>
    <tr>
-    <td>HTML e CSS: </td>
+    <td>CSS: </td>
     <td> Nesse mini-curso dpw explica animações em CSS3.
     <td colspan='2'><a target='_blank' href='https://www.youtube.com/watch?v=eTELLTacg-8&t=2528s'>DPW Animation</a></td>
     <td align='center'><img alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
