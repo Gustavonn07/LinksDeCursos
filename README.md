@@ -61,8 +61,8 @@
     <td align='center'><img alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </tr>
   <tr>
-    <td>CSS e Sass Avançado (INLGÊS) (PAGO): </td>
-    <td> Nesse curso Jonas Schmedthmann ensina CSS com display Grid e Flexbox, além da tecnologia Sass
+    <td>CSS Avançado e Sass (INLGÊS) (PAGO): </td>
+    <td> Nesse curso Jonas Schmedthmann ensina Sass e CSS com Float, display Grid e Flexbox.
     <td colspan='2'><a target='_blank' href='https://www.udemy.com/course/advanced-css-and-sass/'>Jonas Schmedthmann CSS e Sass</a></td>
     <td align='center'> <img alt="Gustavo-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> <img alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </tr>
