@@ -109,7 +109,7 @@
     <td align='center'> <img alt="Gustavo-PROCESSING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg">
   </tr>
   <tr>
-    <td>UI/UX design e Figma (INLGÊS): </td>
+    <td>UI/UX design e Figma (INLGÊS) (PAGO): </td>
     <td> Nesse curso será apresentado UI e UX design com Figma
     <td colspan='2'><a target='_blank' href='https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/'>UI/UX design com Figma</a></td>
     <td align='center'> <img alt="Gustavo-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
