@@ -91,6 +91,12 @@
     <td align='center'><img alt="Gustavo-JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img alt="Gustavo-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> <img alt="Gustavo-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img alt="Gustavo-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> <img alt="Gustavo-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> <img alt="Gustavo-NEXTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> <img alt="Gustavo-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> <img alt="Gustavo-EXPRESS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   </tr>
   <tr>
+    <td>React (Avançado) e Tailwind (Básico) (INLGÊS) (PAGO): </td>
+    <td> Nesse curso Jonas Schmedthmann ensina o básico até o avançado de React, além de explicar TailwindCSS em uma parte do curso.
+    <td colspan='2'><a target='_blank' href='https://www.udemy.com/course/the-ultimate-react-course/'>Jonas Schmedthmann React e Tailwind</a></td>
+    <td align='center'> <img alt="Gustavo-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img alt="Gustavo-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  </tr>
+  <tr>
     <td>Python: </td>
     <td> Nesse curso Gustavo Guanabara ensina sobre o básico de Python (Playlist completa com os 3 mundos e todos os 117 exercícios.)
     <td colspan='2'><a target='_blank' href='https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0'>Cursoemvideo Python</a></td>
@@ -101,6 +107,12 @@
     <td> Nesse curso The Coding Train ensina o básico de Processing
     <td colspan='2'><a target='_blank' href='https://www.youtube.com/playlist?list=PLzJbM9-DyOZyMZzVda3HaWviHqfPiYN7e'>The Coding Train Processing</a></td>
     <td align='center'> <img alt="Gustavo-PROCESSING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg">
+  </tr>
+  <tr>
+    <td>UI/UX design e Figma (INLGÊS): </td>
+    <td> Nesse curso será apresentado UI e UX design com Figma
+    <td colspan='2'><a target='_blank' href='https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/'>UI/UX design com Figma</a></td>
+    <td align='center'> <img alt="Gustavo-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   </tr>
 </table>
 
