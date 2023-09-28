@@ -117,12 +117,10 @@
   </tr>
   <tr>
     <td>Photopea: </td>
-    <td> Nesse curso será apresentado UI e UX design com Figma
+    <td> Nesse curso será apresentado tratamento de imagens com Photopea
     <td colspan='2'><a target='_blank' href='https://www.youtube.com/playlist?list=PLZtlc76aI4q2dpG913gZmeWuufRIuVXRF/'>Tratamento de imagem - Photopea </a></td>
     <td align='center'> <img alt="Gustavo-PHOTOPEA" height="30" width="30" src="https://i.pinimg.com/originals/d5/77/24/d57724c24f2133b292e992aa17c38e56.png">
   </tr>
 </table>
-
-https://www.youtube.com/playlist?list=PLZtlc76aI4q2dpG913gZmeWuufRIuVXRF
 
 <h2 align='center'>Criado por <a href='https://github.com/Gustavonn07'>Gustavonn07</a></h2>
