@@ -115,6 +115,14 @@
     <td colspan='2'><a target='_blank' href='https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/'>UI/UX design com Figma</a></td>
     <td align='center'> <img alt="Gustavo-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   </tr>
+  <tr>
+    <td>Photopea: </td>
+    <td> Nesse curso será apresentado UI e UX design com Figma
+    <td colspan='2'><a target='_blank' href='https://www.youtube.com/playlist?list=PLZtlc76aI4q2dpG913gZmeWuufRIuVXRF/'>Tratamento de imagem - Photopea </a></td>
+    <td align='center'> <img alt="Gustavo-PHOTOPEA" height="30" width="30" src="https://i.pinimg.com/originals/d5/77/24/d57724c24f2133b292e992aa17c38e56.png">
+  </tr>
 </table>
+
+https://www.youtube.com/playlist?list=PLZtlc76aI4q2dpG913gZmeWuufRIuVXRF
 
 <h2 align='center'>Criado por <a href='https://github.com/Gustavonn07'>Gustavonn07</a></h2>
